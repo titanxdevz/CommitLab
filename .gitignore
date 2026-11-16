@@ -1,0 +1,8 @@
+# Local files & python artifacts
+main.py
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.tmp
